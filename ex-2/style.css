@@ -1,1 +1,40 @@
 /* Start coding here */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+  }
+
+html, body {
+    height: 100%;
+  }
+
+
+  .box1 {
+    width: 100%;
+    height: 100vh;  
+    border: lightgrey solid 16px;
+}
+
+.box2 {
+    width: 100%;
+    height: 100%;  
+    border: black solid 16px;
+}
+
+.box3 {
+    width: 100%;
+    height: 100%;    
+    background-color: khaki;
+    border: red solid 10px;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 72px;
+}
