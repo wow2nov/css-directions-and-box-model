@@ -16,16 +16,16 @@
 
 .container {
     border: #324c59 3px solid;
-    margin: 40px;
+    background-color: #a1b6c1;
+    margin: 60px;
     width: 550px;
     padding: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .title-content {
     margin: 20px;
     color: #2a4450;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
 }
 
 .img-travel {
@@ -34,5 +34,4 @@
 
 .content{
     margin: 20px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
